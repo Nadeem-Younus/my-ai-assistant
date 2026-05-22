@@ -17,4 +17,4 @@ python assistant .py
 ‘‘‘
 
 ## Features
-[ List your capabilities and tools ]
+Capabilities: Chat, Email, Summarize, Calculate, Search, Analyze, Weather
